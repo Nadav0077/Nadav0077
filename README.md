@@ -11,6 +11,16 @@
 </p>
 
 <!-- ③ ASCII whoami block -->
+```
+┌─[ nadav@github ]─[ ~/profile ]
+└──╼ $ whoami --verbose
+
+  NAME      : Nadav
+  ROLE      : Security Researcher
+  FOCUS     : Supply Chain Attacks & Security
+  CERTS     : [CRTP]
+  LOADOUT   : Recon · Exploit Dev · Vuln Research
+```
 
 <!-- ④ Credentials -->
 
