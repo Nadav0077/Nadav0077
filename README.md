@@ -22,19 +22,6 @@
   LOADOUT   : Recon · Exploit Dev · Vuln Research
 ```
 
-<!-- ④ Credentials -->
-```
-└──╼ $ cat ./credentials.md
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CVEs-1-8B5CF6?style=for-the-badge&labelColor=0B0B1F" alt="cves"/>
-  <a href="https://github.com/advisories?query=credit%3ANadav0077">
-    <img src="https://img.shields.io/badge/Advisories-1-2DD4BF?style=for-the-badge&labelColor=0B0B1F" alt="advisories"/>
-  </a>
-  <img src="https://img.shields.io/badge/Cert-CRTP-6D28D9?style=for-the-badge&labelColor=0B0B1F" alt="crtp"/>
-</p>
-
 <!-- ⑤ Stats -->
 ```
 └──╼ $ ./github-stats --all
