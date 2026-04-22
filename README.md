@@ -45,8 +45,17 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Nadav0077&show_icons=true&count_private=true&hide_border=false&title_color=2DD4BF&text_color=A5B4FC&icon_color=8B5CF6&bg_color=0B0B1F&border_color=6D28D9" alt="stats"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadav0077&layout=compact&hide_border=false&title_color=2DD4BF&text_color=A5B4FC&bg_color=0B0B1F&border_color=6D28D9" alt="top-langs"/>
+    <td valign="top" align="center">
+      <h3>Most Used Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=A5B4FC&labelColor=0B0B1F" alt="python"/>
+        <img src="https://img.shields.io/badge/Rust-2DD4BF?style=for-the-badge&logo=rust&logoColor=A5B4FC&labelColor=0B0B1F" alt="rust"/>
+        <br/>
+        <img src="https://img.shields.io/badge/C-6D28D9?style=for-the-badge&logo=c&logoColor=A5B4FC&labelColor=0B0B1F" alt="c"/>
+        <img src="https://img.shields.io/badge/C%2B%2B-0D9488?style=for-the-badge&logo=cplusplus&logoColor=A5B4FC&labelColor=0B0B1F" alt="cpp"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Go-8B5CF6?style=for-the-badge&logo=go&logoColor=A5B4FC&labelColor=0B0B1F" alt="go"/>
+      </p>
     </td>
   </tr>
 </table>
