@@ -56,6 +56,15 @@
 </p>
 
 <!-- ⑥ Contact -->
+```
+└──╼ $ ping linkedin.com
+```
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nadav-magier/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nadav%20Magier-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=A5B4FC&labelColor=0B0B1F" alt="linkedin"/>
+  </a>
+</p>
 
 <!-- ⑦ Snake -->
 
