@@ -67,5 +67,11 @@
 </p>
 
 <!-- ⑦ Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nadav0077/Nadav0077/output/github-snake-dark.svg" alt="snake"/>
+</p>
 
 <!-- ⑧ Footer -->
+<p align="center">
+  <sub><code># EOF — [ connection closed ]</code></sub>
+</p>
