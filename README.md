@@ -6,7 +6,7 @@
 <!-- ② Typing Animation -->
 <p align="center">
   <a href="https://github.com/Nadav0077">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=2DD4BF&center=true&vCenter=true&width=640&lines=%3E+Security+Researcher+%2F%2F+Supply+Chain+Hunter;%3E+Breaking+trust+in+the+links+you+don't+see_;%3E+whoami+--verbose" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=2DD4BF&center=true&vCenter=true&width=640&lines=%3E+Security+Researcher+%2F%2F+Supply+Chain+Hunter;%3E+whoami+--verbose" alt="typing"/>
   </a>
 </p>
 
