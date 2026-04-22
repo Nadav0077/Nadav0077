@@ -36,6 +36,24 @@
 </p>
 
 <!-- ⑤ Stats -->
+```
+└──╼ $ ./github-stats --all
+```
+
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nadav0077&show_icons=true&count_private=true&hide_border=false&title_color=2DD4BF&text_color=A5B4FC&icon_color=8B5CF6&bg_color=0B0B1F&border_color=6D28D9" alt="stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadav0077&layout=compact&hide_border=false&title_color=2DD4BF&text_color=A5B4FC&bg_color=0B0B1F&border_color=6D28D9" alt="top-langs"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nadav0077&bg_color=0B0B1F&color=A5B4FC&line=2DD4BF&point=8B5CF6&area=true&hide_border=false&custom_title=Contribution%20Activity" alt="activity-graph"/>
+</p>
 
 <!-- ⑥ Contact -->
 
